@@ -1,0 +1,13 @@
+#Mon May 29 21:54:18 CST 2017
+tomcat6Server.fruitmanager6.shouldOverwrite=false
+tomcat6Server.fruitmanager6.shouldBackup=false
+tomcat6Server.fruitmanager6.isDeployed=true
+tomcat6Server.fruitmanager6.IEARProjectName=
+tomcat6Server.fruitmanager6.deploymentPath=D\:\\Workspaces\\apache-tomcat-6.0.30\\webapps\\fruit
+tomcat6Server.fruitmanager6.isExploded=true
+tomcat6Server.fruitmanager6.altContextRoot=
+tomcat6Server.fruitmanager6.isUptoDate=true
+tomcat6Server.fruitmanager6.contextRoot=/fruit
+eclipse.preferences.version=1
+tomcat6Server.fruitmanager6.type=WebDeployment
+tomcat6Server.fruitmanager6.deployIsOverProject=false
